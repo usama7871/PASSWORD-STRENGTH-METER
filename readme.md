@@ -20,7 +20,6 @@ A robust Streamlit application to generate secure passwords and evaluate their s
 ## Project Structure
 
 ```
-.
 ├── app.py              # Main Streamlit application file.
 ├── password_utils.py   # Utility functions for password generation and strength analysis.
 └── README.md           # Project documentation.
