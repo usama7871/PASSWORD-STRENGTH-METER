@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ```markdown
 # Advanced Password Generator & Analyzer
 
@@ -242,7 +241,3 @@ Enjoy using the Advanced Password Generator & Analyzer and stay secure!
 ```
 
 ---
-
-Simply copy and paste the content above into a new file named `README.md` in your repository at [https://github.com/usama7871/PASSWORD-STRENGTH-CHECKER](https://github.com/usama7871/PASSWORD-STRENGTH-CHECKER)."# PASSWORD-STRENGTH-CHECKER" 
->>>>>>> 7d5a3b28abba197796e89ce6dff30b82e397771d
-"# PASSWORD-STRENGTH-METER" 
